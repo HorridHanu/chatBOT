@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328833746889",
+    "project_id": "chatbot-fd961",
+    "storage_bucket": "chatbot-fd961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328833746889:android:30221a42efc04ad6b48a18",
+        "android_client_info": {
+          "package_name": "com.hackerhanu.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328833746889-f8p1lbmm64q5om8nb9dstvup2i61k580.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv9nnES2B2jsMqYRUNXor7FntYvG2Uk3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328833746889-f8p1lbmm64q5om8nb9dstvup2i61k580.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
