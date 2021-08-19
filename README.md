@@ -1,4 +1,4 @@
-# chatBOT
+# what is chatBOT
 * chatBOT is a chating app using firebase and cloud messaging. 
 * created by Horrid Hanu.
 * if you want contact us.
