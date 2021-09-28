@@ -16,5 +16,5 @@
 
 # chat activity
 ![Screenshot (286)](https://user-images.githubusercontent.com/86579429/130437105-40e40995-7c34-48fd-9e9c-946f3d1df2b7.png)
-![Screenshot (288)](https://user-images.githubusercontent.com/86579429/130437117-3f771365-d5fc-4bb7-8f11-c507f2a8ed9d.png)
+
 
